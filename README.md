@@ -1,22 +1,21 @@
-# Hax Run
+# Haxrun
 
-**Hax Run** is a next-generation AI chatbot developed in 2025, designed to offer intelligent, natural, and highly interactive conversations.  
-This project uses advanced Natural Language Processing (NLP) techniques combined with deep learning models to understand and respond to human queries in real-time.
+**Haxrun** is an advanced AI chatbot developed in 2025 to deliver smart, natural, and highly interactive conversations.  
+It uses cutting-edge Natural Language Processing (NLP) techniques and deep learning to understand and respond to user queries in real-time.
 
-## Features
-- Real-time Natural Language Understanding
-- Adaptive Learning based on user interactions
-- Multi-language support (including Persian and English)
-- Highly customizable for different industries and domains
+## 🚀 Features
+- Real-time Natural Language Understanding (NLU)
+- Adaptive learning based on user interaction
+- Multilingual support (Persian, English, and more)
+- Highly customizable and extendable
 
-## Getting Started
-This project is currently under active development.  
-Stay tuned for future updates and public releases.
+## 🛠 Current Status
+This project is under active development.  
+Public beta release coming soon!
 
-## License
+## 📄 License
 This project is licensed under the MIT License.
 
 ---
 
-> Developed with ❤️ by [Haxrun Team].
-
+> Developed with ❤️ by [mehrsamhorizon](https://github.com/mehrsamhorizon)
